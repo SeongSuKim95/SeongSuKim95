@@ -9,7 +9,7 @@
 - **2015.02 ~ 2021.02** B.S in Sogang University Electornic Engineering (4.0 / 4.5)
 
 # Problem Solving
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=panda0728)](https://solved.ac/panda0728/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=panda0728)](https://solved.ac/panda0728)
 ![panda0728](http://mazandi.herokuapp.com/api?handle=panda0728&theme=dark)
 
 # Skills :star2:
