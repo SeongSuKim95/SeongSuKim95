@@ -3,12 +3,12 @@
  
 ![SeongSuKim95 's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeongSuKim95&show_icons=true&theme=radical)
 
-# Education
+# Education :book:
 - **2022.09 ~ 2023.02** NAVER Connect Foundation - boostcamp AI Tech 4th
 - **2021.02 ~ 2023.02** M.S in Sogang University Electronic Engineering (4.41 / 4.5)
 - **2015.02 ~ 2021.02** B.S in Sogang University Electornic Engineering (4.0 / 4.5)
 
-# Problem Solving
+# Problem Solving :thinking:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=panda0728)](https://solved.ac/panda0728)
 ![panda0728](http://mazandi.herokuapp.com/api?handle=panda0728&theme=dark)
 
