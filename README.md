@@ -30,7 +30,9 @@
 ![weightsandbiases](https://img.shields.io/badge/weightsandbiases-FFBE00.svg?&style=for-the-badge&logo=weightsandbiases&logoColor=white)
 
 # Resume
-- [LINK](./Resume/%EA%B9%80%EC%84%B1%EC%88%98%20%ED%95%9C%EA%B8%80%20%EC%9D%B4%EB%A0%A5%EC%84%9C%20rev4.pdf)
+- [PDF](./Resume/%EA%B9%80%EC%84%B1%EC%88%98%20%ED%95%9C%EA%B8%80%20%EC%9D%B4%EB%A0%A5%EC%84%9C%20rev4.pdf)
+- [LinkedIn](https://www.linkedin.com/in/%EC%84%B1%EC%88%98-%EA%B9%80-56b3ba266/)
+
 # Contacts :envelope:
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ifpanda0728@gmail.com)](mailto:ifpanda0728@gmail.com)
