@@ -27,6 +27,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?&style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
+![weightsandbiases](https://img.shields.io/badge/weightsandbiases-FFBE00.svg?&style=for-the-badge&logo=weightsandbiases&logoColor=white)
+
+# Resume
+- [LINK]()
 # Contacts :envelope:
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ifpanda0728@gmail.com)](mailto:ifpanda0728@gmail.com)
