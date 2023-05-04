@@ -12,7 +12,7 @@
 
 # Problem Solving :thinking:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=panda0728)](https://solved.ac/panda0728)
-![panda0728](http://mazandi.herokuapp.com/api?handle=panda0728&theme=dark)
+<!-- ![panda0728](http://mazandi.herokuapp.com/api?handle=panda0728&theme=dark) -->
 
 # Skills :star2:
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
